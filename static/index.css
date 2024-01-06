@@ -27,7 +27,7 @@
     flex-wrap: wrap;
     justify-content: space-around;
     font-size: 36px;
-    background-image: url('/static/images/background.jpg');
+    background-image: url('/static/background.jpg');
     background-attachment: fixed;
 }
 
